@@ -196,6 +196,38 @@ It aims to connect sketches and informal diagrams (such as class diagrams, compo
 <div class="section" id="overview">
 <h3>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">#</a></h3>
 <div class="figure align-default" id="id1">
+<p class="plantuml">
+<img alt=' package "CLI" {
+     component [CLI] as cli
+     interface Linker as ilink
+     cli -right-( ilink
+ }
+
+ package "Sketches" {
+     [Model] as smodel
+     [COCO] as coco
+
+     interface model as imodel
+     interface diagram as idiagram
+
+     coco -right- idiagram
+     coco -left-( imodel
+     smodel -right- imodel
+ }
+
+ package "Software Architecture (SWA)" {
+     [PCM] as pcm
+     interface Architecture as iarch
+     pcm -left- iarch
+ }
+
+ package "Linking" {
+     [Linking] as linking
+
+     linking -right- ilink
+     linking -right-( iarch
+     linking -down-( idiagram
+ }' src="_images/plantuml-bc1afe2f57b7151b56f4a2175d9cf15b546a079c.svg"/></p>
 <p class="caption"><span class="caption-text">The Architecture of LiSSA</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
 </div>
 <div class="section" id="the-informal-and-formal-artifacts-linker-informalin">

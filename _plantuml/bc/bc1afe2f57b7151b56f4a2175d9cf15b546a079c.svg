@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="200px" preserveAspectRatio="none" style="width:627px;height:200px;background:#FFFFFF;" version="1.1" viewBox="0 0 627 200" width="627px" zoomAndPan="magnify"><defs/><g><!--MD5=[d39d75d20503768f828654fc47e3a2bb]
+cluster CLI--><g id="cluster_CLI"><path d="M112.5,6 L137.5,6 A3.75,3.75 0 0 1 140,8.5 L147,28.2969 L236.5,28.2969 A2.5,2.5 0 0 1 239,30.7969 L239,84.5 A2.5,2.5 0 0 1 236.5,87 L112.5,87 A2.5,2.5 0 0 1 110,84.5 L110,8.5 A2.5,2.5 0 0 1 112.5,6 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="110" x2="147" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="24" x="114" y="20.9951">CLI</text></g><!--MD5=[21ae74856a153c9ea96b9ce525e5365f]
+cluster Sketches--><g id="cluster_Sketches"><path d="M8.5,112 L82.5,112 A3.75,3.75 0 0 1 85,114.5 L92,134.2969 L324.5,134.2969 A2.5,2.5 0 0 1 327,136.7969 L327,190.5 A2.5,2.5 0 0 1 324.5,193 L8.5,193 A2.5,2.5 0 0 1 6,190.5 L6,114.5 A2.5,2.5 0 0 1 8.5,112 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="6" x2="92" y1="134.2969" y2="134.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="73" x="10" y="126.9951">Sketches</text></g><!--MD5=[2a7201a0373696f604edc5d42c09c7a8]
+cluster Software Architecture (SWA)--><g id="cluster_Software Architecture (SWA)"><path d="M377.5,6 L607.5,6 A3.75,3.75 0 0 1 610,8.5 L617,28.2969 L617.5,28.2969 A2.5,2.5 0 0 1 620,30.7969 L620,84.5 A2.5,2.5 0 0 1 617.5,87 L377.5,87 A2.5,2.5 0 0 1 375,84.5 L375,8.5 A2.5,2.5 0 0 1 377.5,6 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="375" x2="617" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="229" x="379" y="20.9951">Software Architecture (SWA)</text></g><!--MD5=[bc128d887d5caa3b91e3a47f4f4e1cae]
+cluster Linking--><g id="cluster_Linking"><path d="M260.5,6 L317.5,6 A3.75,3.75 0 0 1 320,8.5 L327,28.2969 L359.5,28.2969 A2.5,2.5 0 0 1 362,30.7969 L362,84.5 A2.5,2.5 0 0 1 359.5,87 L260.5,87 A2.5,2.5 0 0 1 258,84.5 L258,8.5 A2.5,2.5 0 0 1 260.5,6 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="258" x2="327" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="56" x="262" y="20.9951">Linking</text></g><!--MD5=[c251b62818238b6f79269adc5bf7d1e2]
+entity cli--><g id="elem_cli"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="60" x="118" y="33"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="158" y="38"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="156" y="40"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="156" y="44"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="20" x="133" y="65.9951">CLI</text></g><!--MD5=[5971cfdaf6fba54f93a21af605507a48]
+entity ilink--><g id="elem_ilink"><ellipse cx="222" cy="56" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="201.5" y="85.9951">Linker</text></g><!--MD5=[3a91bd5c5c0e202100c82455f39f51b4]
+entity smodel--><g id="elem_smodel"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="82" x="14" y="139"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="76" y="144"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="74" y="146"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="74" y="150"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="29" y="171.9951">Model</text></g><!--MD5=[1fa81e3309bd67c6f6bf1f3fe2118150]
+entity coco--><g id="elem_coco"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="82" x="184" y="139"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="246" y="144"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="244" y="146"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="244" y="150"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="199" y="171.9951">COCO</text></g><!--MD5=[6e3613e32beee7422e6d43c39f9fbf55]
+entity imodel--><g id="elem_imodel"><ellipse cx="140" cy="162" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="118.5" y="191.9951">model</text></g><!--MD5=[a4d7e900dfe4b9cf380ec1cf3176fac0]
+entity idiagram--><g id="elem_idiagram"><ellipse cx="310" cy="162" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="282.5" y="191.9951">diagram</text></g><!--MD5=[93dbce09eb56c10e396eb32f81645e3d]
+entity pcm--><g id="elem_pcm"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="71" x="442.5" y="33"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="493.5" y="38"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="491.5" y="40"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="491.5" y="44"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="457.5" y="65.9951">PCM</text></g><!--MD5=[184ecec087d87cde4f0c6112cfe009de]
+entity iarch--><g id="elem_iarch"><ellipse cx="398" cy="56" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="356" y="85.9951">Architecture</text></g><!--MD5=[8e607a5f65f6841fdefde757988ae339]
+entity linking--><g id="elem_linking"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="88" x="266" y="33"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="334" y="38"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="332" y="40"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="332" y="44"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="281" y="65.9951">Linking</text></g><!--MD5=[c4d4b7fa57b5878b216932052bea99e3]
+link cli to ilink--><g id="link_cli_ilink"><path d="M178.0625,56 C186.2784,56 194.4944,56 202.7103,56 " fill="none" id="cli-to-ilink" style="stroke:#181818;stroke-width:1.0;"/><path d="M209.6538,47.5427 A9,9 0 0 0 209.6536 64.4572" fill="none" style="stroke:#181818;stroke-width:1.5;"/></g><!--MD5=[335eeedfde8d698564578bc581a12d1f]
+link coco to idiagram--><g id="link_coco_idiagram"><path d="M266.1719,162 C277.6996,162 289.2273,162 300.755,162 " fill="none" id="coco-idiagram" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d639e7eba31b3c5192d3f8b54cc0d545]
+reverse link imodel to coco--><g id="link_imodel_coco"><path d="M159.2981,162 C167.4972,162 175.6964,162 183.8956,162 " fill="none" id="imodel-backto-coco" style="stroke:#181818;stroke-width:1.0;"/><path d="M152.3752,170.4572 A9,9 0 0 0 152.375 153.5427" fill="none" style="stroke:#181818;stroke-width:1.5;"/></g><!--MD5=[ae066cd39800423492e33609eaee90fa]
+link smodel to imodel--><g id="link_smodel_imodel"><path d="M96.1719,162 C107.6996,162 119.2273,162 130.755,162 " fill="none" id="smodel-imodel" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3fa946fe9f61c283e4dd1d8a563f0870]
+link iarch to pcm--><g id="link_iarch_pcm"><path d="M407.0625,56 C418.7931,56 430.5236,56 442.2542,56 " fill="none" id="iarch-pcm" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cdbd9d96959b3f0d65c495ca4f931ef7]
+link linking to ilink--><g id="link_linking_ilink"><path d="M265.7207,56 C254.2409,56 242.7611,56 231.2813,56 " fill="none" id="linking-ilink" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[28afc827781f10ce7609a3b831dcb634]
+link linking to iarch--><g id="link_linking_iarch"><path d="M354,56 C362.2276,56 370.4552,56 378.6829,56 " fill="none" id="linking-to-iarch" style="stroke:#181818;stroke-width:1.0;"/><path d="M385.6407,47.5427 A9,9 0 0 0 385.6405 64.4572" fill="none" style="stroke:#181818;stroke-width:1.5;"/></g><!--MD5=[1e3da7242dd6bfe5690b4c20747452f8]
+link linking to idiagram--><g id="link_linking_idiagram"><path d="M310,79.0004 C310,98.0712 310,124.8689 310,142.8036 " fill="none" id="linking-to-idiagram" style="stroke:#181818;stroke-width:1.0;"/><path d="M318.4573,149.83 A9,9 0 0 0 301.5428 149.8298" fill="none" style="stroke:#181818;stroke-width:1.5;"/></g><!--MD5=[6aae92bf003aa4975415c02c98bf5469]
+@startuml
+ package "CLI" {
+     component [CLI] as cli
+     interface Linker as ilink
+     cli -right-( ilink
+ }
+
+ package "Sketches" {
+     [Model] as smodel
+     [COCO] as coco
+
+     interface model as imodel
+     interface diagram as idiagram
+
+     coco -right- idiagram
+     coco -left-( imodel
+     smodel -right- imodel
+ }
+
+ package "Software Architecture (SWA)" {
+     [PCM] as pcm
+     interface Architecture as iarch
+     pcm -left- iarch
+ }
+
+ package "Linking" {
+     [Linking] as linking
+
+     linking -right- ilink
+     linking -right-( iarch
+     linking -down-( idiagram
+ }
+@enduml
+
+PlantUML version 1.2022.4(Sat Apr 09 13:29:17 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
