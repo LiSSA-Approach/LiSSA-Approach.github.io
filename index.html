@@ -199,8 +199,6 @@ It aims to connect sketches and informal diagrams (such as class diagrams, compo
 <p class="plantuml">
 <img alt=' package "CLI" {
      component [CLI] as cli
-     interface Linker as ilink
-     cli -right-( ilink
  }
 
  package "Sketches" {
@@ -218,16 +216,23 @@ It aims to connect sketches and informal diagrams (such as class diagrams, compo
  package "Software Architecture (SWA)" {
      [PCM] as pcm
      interface Architecture as iarch
-     pcm -left- iarch
+     pcm -right- iarch
  }
+
+ [ArDoCo] as ardoco
+ interface Docs as docu
+ ardoco -right- docu
 
  package "Linking" {
      [Linking] as linking
+     interface Linker as ilink
+     cli -left-( ilink
 
      linking -right- ilink
-     linking -right-( iarch
+     linking -down-( iarch
      linking -down-( idiagram
- }' src="_images/plantuml-bc1afe2f57b7151b56f4a2175d9cf15b546a079c.svg"/></p>
+     linking -left-( docu
+ }' src="_images/plantuml-1a6952192af1657591aef98d22d242f3cb42c273.svg"/></p>
 <p class="caption"><span class="caption-text">The Architecture of LiSSA</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
 </div>
 <div class="section" id="the-informal-and-formal-artifacts-linker-informalin">

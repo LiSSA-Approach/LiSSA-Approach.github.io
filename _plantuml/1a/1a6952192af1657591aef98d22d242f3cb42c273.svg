@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="200px" preserveAspectRatio="none" style="width:592px;height:200px;background:#FFFFFF;" version="1.1" viewBox="0 0 592 200" width="592px" zoomAndPan="magnify"><defs/><g><!--MD5=[d39d75d20503768f828654fc47e3a2bb]
+cluster CLI--><g id="cluster_CLI"><path d="M473.5,6 L498.5,6 A3.75,3.75 0 0 1 501,8.5 L508,28.2969 L544.5,28.2969 A2.5,2.5 0 0 1 547,30.7969 L547,84.5 A2.5,2.5 0 0 1 544.5,87 L473.5,87 A2.5,2.5 0 0 1 471,84.5 L471,8.5 A2.5,2.5 0 0 1 473.5,6 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="471" x2="508" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="24" x="475" y="20.9951">CLI</text></g><!--MD5=[21ae74856a153c9ea96b9ce525e5365f]
+cluster Sketches--><g id="cluster_Sketches"><path d="M8.5,112 L82.5,112 A3.75,3.75 0 0 1 85,114.5 L92,134.2969 L324.5,134.2969 A2.5,2.5 0 0 1 327,136.7969 L327,190.5 A2.5,2.5 0 0 1 324.5,193 L8.5,193 A2.5,2.5 0 0 1 6,190.5 L6,114.5 A2.5,2.5 0 0 1 8.5,112 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="6" x2="92" y1="134.2969" y2="134.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="73" x="10" y="126.9951">Sketches</text></g><!--MD5=[2a7201a0373696f604edc5d42c09c7a8]
+cluster Software Architecture (SWA)--><g id="cluster_Software Architecture (SWA)"><path d="M342.5,112 L572.5,112 A3.75,3.75 0 0 1 575,114.5 L582,134.2969 L582.5,134.2969 A2.5,2.5 0 0 1 585,136.7969 L585,190.5 A2.5,2.5 0 0 1 582.5,193 L342.5,193 A2.5,2.5 0 0 1 340,190.5 L340,114.5 A2.5,2.5 0 0 1 342.5,112 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="340" x2="582" y1="134.2969" y2="134.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="229" x="344" y="126.9951">Software Architecture (SWA)</text></g><!--MD5=[bc128d887d5caa3b91e3a47f4f4e1cae]
+cluster Linking--><g id="cluster_Linking"><path d="M297.5,6 L354.5,6 A3.75,3.75 0 0 1 357,8.5 L364,28.2969 L449.5,28.2969 A2.5,2.5 0 0 1 452,30.7969 L452,84.5 A2.5,2.5 0 0 1 449.5,87 L297.5,87 A2.5,2.5 0 0 1 295,84.5 L295,8.5 A2.5,2.5 0 0 1 297.5,6 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="295" x2="364" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="56" x="299" y="20.9951">Linking</text></g><!--MD5=[c251b62818238b6f79269adc5bf7d1e2]
+entity cli--><g id="elem_cli"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="60" x="479" y="33"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="519" y="38"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="517" y="40"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="517" y="44"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="20" x="494" y="65.9951">CLI</text></g><!--MD5=[3a91bd5c5c0e202100c82455f39f51b4]
+entity smodel--><g id="elem_smodel"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="82" x="14" y="139"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="76" y="144"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="74" y="146"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="74" y="150"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="29" y="171.9951">Model</text></g><!--MD5=[1fa81e3309bd67c6f6bf1f3fe2118150]
+entity coco--><g id="elem_coco"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="82" x="184" y="139"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="246" y="144"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="244" y="146"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="244" y="150"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="199" y="171.9951">COCO</text></g><!--MD5=[6e3613e32beee7422e6d43c39f9fbf55]
+entity imodel--><g id="elem_imodel"><ellipse cx="140" cy="162" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="118.5" y="191.9951">model</text></g><!--MD5=[a4d7e900dfe4b9cf380ec1cf3176fac0]
+entity idiagram--><g id="elem_idiagram"><ellipse cx="310" cy="162" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="282.5" y="191.9951">diagram</text></g><!--MD5=[93dbce09eb56c10e396eb32f81645e3d]
+entity pcm--><g id="elem_pcm"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="71" x="354.5" y="139"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="405.5" y="144"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="403.5" y="146"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="403.5" y="150"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="369.5" y="171.9951">PCM</text></g><!--MD5=[184ecec087d87cde4f0c6112cfe009de]
+entity iarch--><g id="elem_iarch"><ellipse cx="470" cy="162" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="428" y="191.9951">Architecture</text></g><!--MD5=[8e607a5f65f6841fdefde757988ae339]
+entity linking--><g id="elem_linking"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="88" x="303" y="33"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="371" y="38"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="369" y="40"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="369" y="44"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="318" y="65.9951">Linking</text></g><!--MD5=[5971cfdaf6fba54f93a21af605507a48]
+entity ilink--><g id="elem_ilink"><ellipse cx="435" cy="56" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="414.5" y="85.9951">Linker</text></g><!--MD5=[6eb6d0e5655d0dd1bd015e35eae55aff]
+entity ardoco--><g id="elem_ardoco"><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="93" x="121.5" y="33"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="194.5" y="38"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="192.5" y="40"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="192.5" y="44"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="136.5" y="65.9951">ArDoCo</text></g><!--MD5=[174e88fc3720eebadda9ee9091ccd1ac]
+entity docu--><g id="elem_docu"><ellipse cx="259" cy="56" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="241" y="85.9951">Docs</text></g><!--MD5=[335eeedfde8d698564578bc581a12d1f]
+link coco to idiagram--><g id="link_coco_idiagram"><path d="M266.1719,162 C277.6996,162 289.2273,162 300.755,162 " fill="none" id="coco-idiagram" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d639e7eba31b3c5192d3f8b54cc0d545]
+reverse link imodel to coco--><g id="link_imodel_coco"><path d="M159.2981,162 C167.4972,162 175.6964,162 183.8956,162 " fill="none" id="imodel-backto-coco" style="stroke:#181818;stroke-width:1.0;"/><path d="M152.3752,170.4572 A9,9 0 0 0 152.375 153.5427" fill="none" style="stroke:#181818;stroke-width:1.5;"/></g><!--MD5=[ae066cd39800423492e33609eaee90fa]
+link smodel to imodel--><g id="link_smodel_imodel"><path d="M96.1719,162 C107.6996,162 119.2273,162 130.755,162 " fill="none" id="smodel-imodel" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7569702771227b6d6e0ca58bab96bbec]
+link pcm to iarch--><g id="link_pcm_iarch"><path d="M425.625,162 C437.4121,162 449.1992,162 460.9863,162 " fill="none" id="pcm-iarch" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3e0cf733c582b0b74b6000963e2ab35e]
+link ardoco to docu--><g id="link_ardoco_docu"><path d="M214.5664,56 C226.3691,56 238.1718,56 249.9744,56 " fill="none" id="ardoco-docu" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5346fb7aa9e98bef4f999ebb5d664c97]
+reverse link ilink to cli--><g id="link_ilink_cli"><path d="M454.2664,56 C462.4781,56 470.6897,56 478.9014,56 " fill="none" id="ilink-backto-cli" style="stroke:#181818;stroke-width:1.0;"/><path d="M447.3282,64.4572 A9,9 0 0 0 447.3282 47.5428" fill="none" style="stroke:#181818;stroke-width:1.5;"/></g><!--MD5=[cdbd9d96959b3f0d65c495ca4f931ef7]
+link linking to ilink--><g id="link_linking_ilink"><path d="M391.3438,56 C402.8263,56 414.3088,56 425.7913,56 " fill="none" id="linking-ilink" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[28afc827781f10ce7609a3b831dcb634]
+link linking to iarch--><g id="link_linking_iarch"><path d="M391.1295,78.7344 C412.2645,90.2114 434.7485,103.4721 443,112 C451.7465,121.0395 458.478,133.4773 463.0321,143.6862 " fill="none" id="linking-to-iarch" style="stroke:#181818;stroke-width:1.0;"/><path d="M473.4967,146.8709 A9,9 0 0 0 457.8625 153.3261" fill="none" style="stroke:#181818;stroke-width:1.5;"/></g><!--MD5=[1e3da7242dd6bfe5690b4c20747452f8]
+link linking to idiagram--><g id="link_linking_idiagram"><path d="M338.9716,79.0004 C332.2517,98.252 322.7833,125.3776 316.5235,143.3112 " fill="none" id="linking-to-idiagram" style="stroke:#181818;stroke-width:1.0;"/><path d="M322.1728,152.7892 A9,9 0 0 0 306.2034 147.2146" fill="none" style="stroke:#181818;stroke-width:1.5;"/></g><!--MD5=[2c46ba668a1721177fe3d88969ead4d1]
+reverse link docu to linking--><g id="link_docu_linking"><path d="M278.5055,56 C286.5772,56 294.649,56 302.7207,56 " fill="none" id="docu-backto-linking" style="stroke:#181818;stroke-width:1.0;"/><path d="M271.3596,64.4572 A9,9 0 0 0 271.3594 47.5427" fill="none" style="stroke:#181818;stroke-width:1.5;"/></g><!--MD5=[805f6036d491794c1728b925536d73b7]
+@startuml
+ package "CLI" {
+     component [CLI] as cli
+ }
+
+ package "Sketches" {
+     [Model] as smodel
+     [COCO] as coco
+
+     interface model as imodel
+     interface diagram as idiagram
+
+     coco -right- idiagram
+     coco -left-( imodel
+     smodel -right- imodel
+ }
+
+ package "Software Architecture (SWA)" {
+     [PCM] as pcm
+     interface Architecture as iarch
+     pcm -right- iarch
+ }
+
+ [ArDoCo] as ardoco
+ interface Docs as docu
+ ardoco -right- docu
+
+ package "Linking" {
+     [Linking] as linking
+     interface Linker as ilink
+     cli -left-( ilink
+
+     linking -right- ilink
+     linking -down-( iarch
+     linking -down-( idiagram
+     linking -left-( docu
+ }
+@enduml
+
+PlantUML version 1.2022.4(Sat Apr 09 13:29:17 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
