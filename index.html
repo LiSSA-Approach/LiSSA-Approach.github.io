@@ -5,10 +5,10 @@
     <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 <link rel="index" title="Index" href="genindex/" /><link rel="search" title="Search" href="search/" />
 
-    <meta name="generator" content="sphinx-4.5.0, furo 2022.04.07"/>
+    <meta name="generator" content="sphinx-4.5.0, furo 2022.06.04.1"/>
         <title>Linking Sketches and Software Architecture (LiSSA) 0.3 documentation</title>
       <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/furo.css?digest=68f4518137b9aefe99b631505a2064c3c42c9852" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/furo.css?digest=40978830699223671f4072448e654b5958f38b89" />
     <link rel="stylesheet" type="text/css" href="_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
     <link rel="stylesheet" type="text/css" href="_static/css/bg.css" />
     
@@ -172,7 +172,8 @@
           </svg>
           <span>Back to top</span>
         </a>
-        <div class="content-icon-container"><div class="theme-toggle-container theme-toggle-content">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
             <button class="theme-toggle">
               <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
               <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
@@ -198,11 +199,11 @@ It aims to connect sketches and informal diagrams (such as class diagrams, compo
 <h3>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">#</a></h3>
 <figure class="align-default" id="id1">
 <p class="plantuml">
-<img alt=' package "CLI" {
+<img src="_images/plantuml-1a6952192af1657591aef98d22d242f3cb42c273.svg" alt=" package &quot;CLI&quot; {
      component [CLI] as cli
  }
 
- package "Sketches" {
+ package &quot;Sketches&quot; {
      [Model] as smodel
      [COCO] as coco
 
@@ -214,7 +215,7 @@ It aims to connect sketches and informal diagrams (such as class diagrams, compo
      smodel -right- imodel
  }
 
- package "Software Architecture (SWA)" {
+ package &quot;Software Architecture (SWA)&quot; {
      [PCM] as pcm
      interface Architecture as iarch
      pcm -right- iarch
@@ -224,7 +225,7 @@ It aims to connect sketches and informal diagrams (such as class diagrams, compo
  interface Docs as docu
  ardoco -right- docu
 
- package "Linking" {
+ package &quot;Linking&quot; {
      [Linking] as linking
      interface Linker as ilink
      cli -left-( ilink
@@ -233,7 +234,7 @@ It aims to connect sketches and informal diagrams (such as class diagrams, compo
      linking -down-( iarch
      linking -down-( idiagram
      linking -left-( docu
- }' src="_images/plantuml-1a6952192af1657591aef98d22d242f3cb42c273.svg"/></p>
+ }"/></p>
 <figcaption>
 <p><span class="caption-text">The Architecture of LiSSA</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
 </figcaption>
@@ -244,7 +245,7 @@ It aims to connect sketches and informal diagrams (such as class diagrams, compo
 All projects within InFormALin aim to connect informal and formal artifacts.
 An overview for the initial processing structure of InFormALin is presented in the following figure.</p>
 <figure class="align-center" id="id2">
-<img alt="_images/informalin.svg" class="white-image-bg" src="_images/informalin.svg"/><figcaption>
+<img alt="_images/informalin.svg" class="white-image-bg" src="_images/informalin.svg" /><figcaption>
 <p><span class="caption-text">The initial InFormALin Processing Schema</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
 </figcaption>
 </figure>
